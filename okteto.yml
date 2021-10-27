@@ -1,0 +1,5 @@
+name: frontend
+forward:
+  - 8080:8080
+reverse:
+  - 9000:9000
